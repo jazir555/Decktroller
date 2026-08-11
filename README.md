@@ -1,4 +1,4 @@
-# SpoofDeck: Steam Deck → Steam Controller 2026 (BLE + Virtual USB)
+# Decktroller: Steam Deck → Steam Controller 2026 (BLE + Virtual USB)
 
 Make a Steam Deck present itself as a Steam Controller 2026 (SC2) over Bluetooth Low Energy or as a virtual USB device, enabling Steam Input support (trackpads, gyro, back buttons) without physical USB wired mode.
 
